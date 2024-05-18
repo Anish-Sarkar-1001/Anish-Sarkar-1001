@@ -1,11 +1,20 @@
 ## Introduction
-- 👋 Hi, I’m @Anish-Sarkar-1001
-- 👀 I’m interested in astrophysics, numerical simulations, computational fluid dynamics and coding in general
-- 🌱 I’m currently learning High Energy Astrophysics
-- 💞️ I’m looking to collaborate on Global Accretin Disk development code
-- 📫 How to reach me: [Email](sarkar.anish.1001@gmail.com), [LinkedIn](linkedin.com/in/anish-sarkar-b2a80a30a)
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love cricket
+Hi, I’m Anish Sarkar. I am a post graduate student at the Indian Institute of Technology, Hyderabad and am on the verge of completing my post graduation degree. All my official coding work can be found here. \
+
+## Interests
+- Astrophysics
+- Numerical Simulations
+- Computational Fluid Dynamics
+- Coding in General
+- Circket
+
+## Collaboration
+Looking to collaborate on GUI based global accretion disk / jet simulation code
+
+## Contact
+- [ Email](sarkar.anish.1001@gmail.com)
+- [LinkedIn](linkedin.com/in/anish-sarkar-b2a80a30a)
+
 
 <!---
 Anish-Sarkar-1001/Anish-Sarkar-1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
