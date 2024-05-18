@@ -1,8 +1,9 @@
+## Introduction
 - 👋 Hi, I’m @Anish-Sarkar-1001
 - 👀 I’m interested in astrophysics, numerical simulations, computational fluid dynamics and coding in general
 - 🌱 I’m currently learning High Energy Astrophysics
 - 💞️ I’m looking to collaborate on Global Accretin Disk development code
-- 📫 How to reach me: ... [Email](sarkar.anish.1001@gmail.com), [LinkedIn](linkedin.com/in/anish-sarkar-b2a80a30a)
+- 📫 How to reach me: [Email](sarkar.anish.1001@gmail.com), [LinkedIn](linkedin.com/in/anish-sarkar-b2a80a30a)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love cricket
 
