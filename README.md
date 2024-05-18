@@ -1,5 +1,5 @@
 ## Introduction
-Hi, I’m Anish Sarkar. I am a post graduate student at the Indian Institute of Technology, Hyderabad and am on the verge of completing my post graduation degree. All my official coding work can be found here. \
+Hi, I’m Anish Sarkar. I am a post graduate student at the Indian Institute of Technology, Hyderabad and am on the verge of completing my post graduation degree. All my official coding work can be found here.
 
 ## Interests
 - Astrophysics
