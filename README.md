@@ -1,15 +1,20 @@
-## About
-Hi, I’m Anish Sarkar. I am a Master's Graduate from the Indian Institute of Technology, Hyderabad.
+# XRByte | Astrophysics Graduate and Developer
 
-## Interests
+## About me
+Hi, I'm Anish, a computational astrophysics enthusiast exploring the universe through simulations and code! I enjoy linking theory with observations using high-performance computing and numerical methods.  
+
+## My interests
 - Astrophysical fluids
-- Numerical Simulations
-- Computational Fluid Dynamics
+- High-energy astrophysics
+- Observational astronomy
+- Radiation driven numerical simulations
+- Computational fluid dynamics
 - Machine learning
 - Automation
+- HPC
 
 
-## Contact
+## Let's Connect
 - [ Email](sarkar.anish.1001@gmail.com)
 
 
