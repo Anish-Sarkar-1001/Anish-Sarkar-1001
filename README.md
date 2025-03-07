@@ -1,19 +1,16 @@
 ## About
-Hi, I’m Anish Sarkar. I am a post graduate student at the Indian Institute of Technology, Hyderabad and am on the verge of completing my post graduation degree. All my official coding work can be found here.
+Hi, I’m Anish Sarkar. I am a Master's Graduate from the Indian Institute of Technology, Hyderabad.
 
 ## Interests
 - Astrophysical fluids
 - Numerical Simulations
 - Computational Fluid Dynamics
 - Machine learning
-- Deep Learning
+- Automation
 
-## Collaboration
-Looking to collaborate on GUI based global accretion disk / jet simulation code
 
 ## Contact
 - [ Email](sarkar.anish.1001@gmail.com)
-- [LinkedIn](linkedin.com/in/anish-sarkar-b2a80a30a)
 
 
 <!---
